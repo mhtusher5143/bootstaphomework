@@ -89,3 +89,13 @@ p {
     line-height: 28px;
    
 }
+
+/*service*/
+.col h5 {
+    font-size: 24px;
+    margin: 14px 0px 24px;
+}
+.col{
+    padding: 30px 40px;
+    border: 1px solid lightcyan;
+}
